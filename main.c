@@ -25,7 +25,7 @@ int main()
 
     */
 
-    int num1, num2;
+    /*int num1, num2;
     int result;
     printf("enter num1: ");
     scanf("%d", &num1);
@@ -36,6 +36,13 @@ int main()
     }
     else{
         printf("%d %d", num1, num2);
+        */
+
+    int arr[3] = [1, 9, 5];
+    for (int i = 0; i< 3 ;i++ ){
+
+    }
+
     }
 
 
