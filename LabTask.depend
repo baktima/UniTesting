@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1696211207 source:c:\users\asus\documents\c projects\labtask\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1696211512 source:c:\users\asus\documents\c projects\labtask\num2.c
+	<stdio.h>
+
